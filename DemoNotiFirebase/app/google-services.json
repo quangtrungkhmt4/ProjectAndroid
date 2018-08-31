@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "521849815285",
+    "firebase_url": "https://notifirebase-f4177.firebaseio.com",
+    "project_id": "notifirebase-f4177",
+    "storage_bucket": "notifirebase-f4177.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521849815285:android:c81b795e548296ea",
+        "android_client_info": {
+          "package_name": "com.example.quang.demonotifirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "521849815285-8rdha2fit1vlj5e9spl6lh9jloqr5upe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQRF_gPs0XGz9RP0OBzrSJkRQW0dRgbFQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
